@@ -5,3 +5,5 @@ gunicorn
 jupyter
 numpy
 pandas
+
+dash-renderer
