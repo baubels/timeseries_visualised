@@ -14,6 +14,8 @@ This template is on the `boilerplate` branch of the tutorial [Github repo](https
 See the `master` branch to build an interactive visualization app
 '''
 
+xxx = 1
+
 app.layout = html.Div([
 
     dcc.Markdown(children=top_markdown_text),
